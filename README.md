@@ -11,7 +11,7 @@ The app provides an easy interface for designated users to create, preview, coll
 
 ### Key features
 * **Message creation:** Easily create messages by using a team tab where team members who are permissioned can collaborate and create messages.
-* **Audience selection:** Pick from three options to target audience. Send to general channel of selected teams, send in 1:1 chat to members of selected teams or send to all users who have the app installed.
+* **Audience selection:** Pick from four options to target audience. Send to General channel of selected teams, send in 1:1 chat to members of selected team, send in 1:1 chat to members in select M365 Groups/distribution groups.security groups or send to all users who have the app installed in the organization. 
 
 ## Get started
 
